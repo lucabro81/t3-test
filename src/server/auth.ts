@@ -29,7 +29,6 @@ declare module "next-auth" {
   //   // role: UserRole;
   // }
 
-  console.log('test')
 }
 
 /**
